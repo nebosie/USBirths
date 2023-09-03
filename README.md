@@ -3,7 +3,7 @@ Analysis of US Births by Year, State, and Mother's Education Level
 About Dataset
 This dataset provides birth rates and related data across the 50 states and DC from 2016 to 2021. The data
 was sourced from the Centers for Disease Control and Prevention (CDC) using CDC's WONDER retrieval tool on the CDC Natality page
-and particular emphasis is given to detailed information on the mother's educational level. 
+and particular emphasis is given to detailed information on the mother's educational level.
 
 Mother's Educational Level is codified with higher numbers indicating a higher level of education as follows
 1: 8th grade or less
